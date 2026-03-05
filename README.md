@@ -22,6 +22,7 @@ Docker
 Materialized Views
 Window Functions
 Cron scheduling
+Logging 
 
 # Run locally
 
@@ -57,7 +58,6 @@ limit 1;
 # Future Improvements
 
 - Add Airflow for orchestration
-- Add monitoring / logging
 - Deploy API to cloud (Render / Fly.io)
 - Add unit tests
 - Add FastAPI
